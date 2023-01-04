@@ -17,10 +17,10 @@ div.tall-row {
 }
 
 
-h1 {
+* {
     font-family: 'Anton', sans-serif;
 }
-h2 {
+h2, H5{
     font-family: 'Abel', sans-serif;
 }
 .logo {
