@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lato:wght@300&family=Montserrat&family=Roboto&family=Source+Code+Pro&family=Work+Sans&display=swap');
 
+/*layuot grid*/
 body {
     height: 100vh;
 }
@@ -14,6 +15,8 @@ div.row > div {
 div.tall-row {
     height: 300px;
 }
+
+
 h1 {
     font-family: 'Anton', sans-serif;
 }
@@ -29,18 +32,15 @@ h2 {
 .design {
     background-color: #E6563B;
 }
-.design {
-    background-color: #E6563B;
+.develop {
+    background-color: #EB9D3A;
 }
-.design {
-    background-color: #E6563B;
+.support {
+    background-color: #7CB06C;
 }
-.design {
-    background-color: #E6563B;
+.host {
+    background-color: #00ABA9;
 }
-/*red: #E6563B*/
-/*yellow: #EB9D3A*/
-/*green: #7CB06C*/
-/*blue: #00ABA9*/
+
 /*lightgray: #F0F0F0*/
 /*gray: #E6E6E6*/
