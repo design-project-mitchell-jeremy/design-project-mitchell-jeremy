@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lato:wght@300&family=Montserrat&family=Roboto&family=Source+Code+Pro&family=Work+Sans&display=swap');
 
-/*layuot grid*/
+layuot grid
 body {
     height: 100vh;
 }
@@ -29,7 +29,7 @@ h2, H5{
     /*aspect-ratio: 1/1;*/
 }
 /*.icon {*/
-/*    width: 50px;*/
+/*    width: auto;*/
 /*    height: 50px;*/
 /*    !*aspect-ratio: 1/1;*!*/
 /*}*/
@@ -45,6 +45,11 @@ h2, H5{
 }
 .host {
     background-color: #00ABA9;
+}
+
+#img1 {
+    background-image: url("../assets/images/apple-ipad.jpg");
+
 }
 
 /*lightgray: #F0F0F0*/
