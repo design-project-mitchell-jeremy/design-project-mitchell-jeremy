@@ -54,6 +54,9 @@ h2, h5, h6{
 .lorem {
     /*font-size: .5em;*/
 }
+.featprod {
+    white-space: nowrap;
+}
 /*#img1 {*/
 /*    background-image: url("../assets/images/apple-ipad.jpg");*/
 /*}*/
